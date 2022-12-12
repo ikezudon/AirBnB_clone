@@ -13,7 +13,7 @@
 
 /*
  * --- Contain search button float ---
- */
+*/
 
 .filters:before,
 .filters:after {
@@ -65,7 +65,7 @@
 /* Locations and amenities hover opacity */
 .filters .locations:hover,
 .filters .amenities:hover {
-    background-color: #fafafa;
+   background-color: #fafafa;
 }
 
 /* Locations and amenities popover menu */
@@ -81,7 +81,7 @@
 /* Locations and amenities popover hover */
 .filters .locations:hover .popover,
 .filters .amenities:hover .popover {
-    display: block;
+    display: block
 }
 
 /* Locations list padding */
@@ -109,7 +109,7 @@
 	width: 95%;
 	margin: 0 auto;
     }
-}
+
 
 /* Swap to vertical layout for small screens */
 @media only screen and (max-width: 720px) {
